@@ -460,6 +460,7 @@ void ofxQuadWarp::draw() {
 }
 
 void ofxQuadWarp::drawQuadOutline() {
+    
     if(bShow == false) {
         return;
     }

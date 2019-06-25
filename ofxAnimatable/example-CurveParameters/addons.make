@@ -1,0 +1,6 @@
+ofxTimeMeasurements
+ofxAnimatable
+ofxRemoteUI
+ofxPoco
+ofxOsc
+ofxXmlSettings
